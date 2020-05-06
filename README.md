@@ -21,9 +21,9 @@ fx 0 cx
 
 formualtion 
 
-X = (x - cx) / f * depth
+X = (x - cx) / fx * depth
 
-Y = (y - cy) / f * depth 
+Y = (y - cy) / fy * depth 
 
 Z = depth
 			

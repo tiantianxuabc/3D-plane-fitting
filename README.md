@@ -13,7 +13,7 @@ Conversion of depth to point cloud through camera calibration information
 
 camera calibration:
 
-fx 0 cy
+fx 0 cx
 
 0 fy cy
 

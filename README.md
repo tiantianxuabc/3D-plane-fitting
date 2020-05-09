@@ -1,6 +1,7 @@
 # 3D-plane-fitting
 Fit 3d plane based on C++
 
+![Point](point_cloud_640_576_kinect.png) | ![depth](.depth_color_image.jpg)
 
 Input a 3d point cloud or depth image of depth camera and calibration information and fitting a 3D plane
 
